@@ -1,8 +1,8 @@
 ### Olá! Eu sou Robert Rodrigues 👋
 
-- 🔭 I’m currently working as a Java developer
-- 🌱 I’m currently learning full stack development: Java, Spring framework and ReactJS
-- 😄 Pronouns: he/his
+- 🔭 Trabalho como desenvolvedor Java
+- 🌱 Estou estudando desenvolvimento full stack, com  Java, Spring framework e ReactJS
+- 😄 Pronomes: ele/eles
 
  <div>
   <a href="https://github.com/robbintj">
@@ -21,7 +21,7 @@
   <img align="center" alt="bob-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
   
  
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  
 </div>
   
   ##
