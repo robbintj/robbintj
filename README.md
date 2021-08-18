@@ -1,7 +1,7 @@
 ### Olá! Eu sou Robert Rodrigues 👋
 
-- 🔭 Trabalho como desenvolvedor Java
-- 🌱 Estou estudando desenvolvimento full stack, com  Java, Spring framework e ReactJS
+- 🔭 Hoje trabalho como desenvolvimento Java
+- 🌱 Estudando desenvolvimento full stack, com  Java, Spring framework e ReactJS
 - 😄 Pronomes: ele/eles
 
  <div>
