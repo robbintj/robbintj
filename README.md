@@ -1,8 +1,8 @@
 ### Olá! Eu sou Robert Rodrigues 👋
 
-- 🔭 Sou desenvolvedor Java
-- 🌱 Estudando desenvolvimento full stack, com  Java, Spring framework e ReactJS
-- 😄 Pronomes: ele/eles
+- 🔭I'm a Java developer
+- 🌱 Studying full stack development, with Java, Spring framework and ReactJS
+- 😄 Pronouns: he/they
 
  <div>
   <a href="https://github.com/robbintj">
